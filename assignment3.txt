@@ -1,0 +1,9 @@
+1) Does ANSI recognize the data type DATE? 
+Ans: Yes
+
+2) Which subdivision of SQL is used to insert values in tables?
+Ans: DML(Data Manipulation Language)
+     Example: Employee table having id, name, salary
+
+    ->insert into employee (id, name, salary)
+      values(1001, 'King', 5000);
